@@ -60,6 +60,18 @@
     "zuid": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "name": "最大资源"
+       },
+    "z": {
+      "api": "https://www.fantuan.tv/api.php/provide/vod",
+      "name": "最"
+       },
+    "zu": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "最大"
+       },
+    "zui": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod",
+      "name": "最大资"
     },
     "yinghua": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
