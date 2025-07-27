@@ -79,7 +79,8 @@
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"},
+      "name": "量子资源站"
+    },
     "suo": {
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "量"
@@ -87,6 +88,18 @@
     "l": {
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
       "name": "量子"
+    },
+    "la": {
+      "api": "https://kuaikan-api.com/api.php/provide/vod",
+      "name": "量轴子"
+    },
+    "lv": {
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod",
+      "name": "量铣子"
+    },
+    "lc": {
+      "api": "http://by.bfzyapi.com/api.php/provide/vod",
+      "name": "量年子"
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
